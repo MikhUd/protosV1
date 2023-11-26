@@ -1,3 +1,3 @@
-module github.com/MikhUd/grpc/auth/protos
+module github.com/MikhUd/protosV1
 
 go 1.21.4
